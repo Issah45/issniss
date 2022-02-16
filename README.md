@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @issniss
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML&CSS
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Nothing
+- 🌱 I’m currently learning A bunch of languages including: c++ c# go python html css js so on...
+- 💞️ I’m looking to collaborate on Coding Projects
 
-<!---
-issniss/issniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
